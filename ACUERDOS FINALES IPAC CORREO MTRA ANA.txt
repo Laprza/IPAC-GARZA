@@ -1,0 +1,51 @@
+Comparto la base de datos con la información que nos envió Ana María. En la reunión se comentaron los siguientes asuntos:
+Docentes en hojas rojas
+No perciben IPAC. Tienen licencia sin goce de sueldo debido a:
+Licencias sin goce de sueldo.
+Exceso/abuso de inasistencias: acumulan tantas inasistencias que, primero, se les bajó el sueldo al 50% y, como no regresaron, por ahora no reciben salario. (Anexo tabla)
+Exceso/abuso de licencias médicas: acumulan tantas licencias que, primero, se les bajó el sueldo al 50% y, como no regresaron, por ahora no reciben salario. (Anexo tabla)
+Docentes en hojas verdes
+En estas hojas están los docentes que tienen faltas. Por la tarde de ayer enviaron la suma de faltas; ya va incluida aquí.
+Ayer se comentó que, para no definir una cantidad de días o un porcentaje específico en el tema de las inasistencias, y de acuerdo con la tabla anexa, si la SEG no les está pagando por los supuestos del punto 1 de este correo, tampoco perciben incentivo IPAC:
+Si tienen faltas, esos días no suman a los 90 días laborados, pero no se toman como interrupción, excepto cuando las inasistencias exceden (punto 1 inciso b).
+Si, aun con las faltas, el docente logra acumular 90 días laborados, percibe el incentivo.
+Permanencia en un mismo CT
+Ayer se comentó, pero no se llegó a ningún acuerdo, que:
+Sustento punto 3:
+El Programa Permanente para Elevar la Calidad de la Educación indica en su convocatoria y objetivo la contribución de los participantes en el desarrollo, seguimiento y evaluación del PMC durante el ciclo escolar.
+Si el docente acumula los 90 días con la suma de los días laborados en varias plazas, solo procederá si la plaza es en el mismo CT para cada periodo IPAC (M1 y M2).
+Si en el periodo a evaluar un docente acumula los 90 días laborados en un mismo CT y después cambia de plaza y CT, sí se le paga, pues cumplió con los 90 días en el mismo CT.
+Si en el periodo a evaluar un docente acumula 90 días laborados en diversas plazas, pero en el mismo CT, sí percibe el incentivo.
+Si en el periodo a evaluar un docente acumula 90 días laborados en diversas plazas y diversos CTs, sin acumular en alguno 90 días, no percibe el incentivo.
+Si cuenta con más de una plaza, aplica para cada una.
+Si el docente comienza el ciclo en un CT y cambia antes de noviembre (90 días), no participará plenamente en la planeación escolar (M1).
+En el CT al que llega, ya habrá avances en la planeación y no aportará a la lectura de la realidad (M1).
+Lo mismo aplica para M2: si cambia de CT (ene-jul), no podrá realizar el seguimiento en el cumplimiento de metas y avances de sus alumnos, pues trabajará en el PMC de su nueva escuela (M2).
+Pago de horas
+En esta ocasión ya no existirán los rangos, pues había cierta injusticia: un docente con una plaza de 1 hora percibía lo mismo que uno con 9, y así consecutivamente:
+
+Horas
+Cantidad de incentivo a percibir
+1 a 9  
+.5
+10 a 19 
+1
+20 a 29 
+1.5
+30 o más
+2
+ 
+Se decidió obtener un factor de valor por hora:
+- Hora = 0.0595 (cero punto cinco nueve cinco)
+Este factor resulta de dividir el valor máximo del incentivo que perciben las plazas por jornada. Jefe de Sector = 2.5, dividido entre la cantidad de horas que tiene una plaza por horas completas = 42 horas.
+(incentivo máx.) 2.5 / 42 (horas totales plaza por horas)
+Entonces, para calcular el incentivo de las plazas por hora:
+5. Docentes con más de una plaza
+La plaza en que recibirán el incentivo se definirá así:
+Se realiza la suma de horas con que cuenta el RFC.
+Una vez sumada, se multiplica por el factor para obtener el incentivo que percibe cada RFC.
+Si una de las plazas es federal, en esa.
+Si alguna de las plazas es de ocupaciones diferentes, será en la de mayor valor o rango. Ejemplo: si tiene plaza docente y de director, será en la de director.
+Si las plazas son de la misma ocupación (2 plazas docentes / 2 plazas director / etc.), será en la de mayor antigüedad.
+Sin otro particular, quedo atento a cualquier duda o situación al respecto.
+Saludos.
